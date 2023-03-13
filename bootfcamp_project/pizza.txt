@@ -1,0 +1,19 @@
+*lutfen bir boy seciniz:
+Kucuk (S)
+Orta (M)
+Buyukk (L)
+
+*Pizza turu seciniz:
+1: Klasik
+2: Margarita
+3: Tonbalikli Pizza
+4: 4 Peynirli Pizza
+
+* ve secebilceginiz ekstralar:
+1: Keci peyniri
+2: Misir
+3: Siyah zeytin
+4: Mantar
+5: danaeti
+6: soganlar
+* Tesekkur ederiz!
